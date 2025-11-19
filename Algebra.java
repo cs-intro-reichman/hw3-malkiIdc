@@ -77,7 +77,7 @@ public class Algebra {
 		return result;
 	}
 
-	// Returns x^n (for n >= 0)
+	// Returns x^n (for n >= 0)no
 	public static int pow(int x, int n) {
 
 		int result =1;
@@ -86,7 +86,7 @@ public class Algebra {
 		{
 		result= times(result,x);
 		}
-
+		
 		return result;
 	}
 
